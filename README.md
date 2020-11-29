@@ -1,4 +1,4 @@
-Wifiboy-Simple-Screen-Display
+Wifi-Boy-Screen-Display
 ===
 
 ## 說明
